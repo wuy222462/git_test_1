@@ -1,0 +1,14 @@
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\bin\Debug\net8.0\git_test_1.exe
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\bin\Debug\net8.0\git_test_1.deps.json
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\bin\Debug\net8.0\git_test_1.runtimeconfig.json
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\bin\Debug\net8.0\git_test_1.dll
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\bin\Debug\net8.0\git_test_1.pdb
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\git_test_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\git_test_1.AssemblyInfoInputs.cache
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\git_test_1.AssemblyInfo.cs
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\git_test_1.csproj.CoreCompileInputs.cache
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\git_test_1.dll
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\refint\git_test_1.dll
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\git_test_1.pdb
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\git_test_1.genruntimeconfig.cache
+D:\MyCodes\CsharpCodes\git_test_demo\git_test_1\obj\Debug\net8.0\ref\git_test_1.dll

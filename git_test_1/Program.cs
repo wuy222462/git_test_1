@@ -1,0 +1,9 @@
+﻿
+Console.WriteLine("Hello git");
+Console.WriteLine("Hello git");
+Console.WriteLine(GetSum());
+
+static int GetSum()
+{	
+	return 0;
+}
